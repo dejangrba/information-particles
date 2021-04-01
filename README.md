@@ -1,7 +1,7 @@
 # Information Particles
 ## Tracing the Ambiguities of the Creative AI
 
-![Jukka Hautamaki, New Parliament (2019).](https://github.com/dejangrba/information-particles/blob/information-particles-page/Jukka-Hautamaki-2019-New-Parliament.jpg)
+![Jukka Hautämaki, New Parliament (2019).](https://dejangrba.github.io/information-particles/Jukka-Hautamaki-2019-New-Parliament.jpg)
 Jukka Hautamäki, _New Parliament_ (2019). Image courtesy of the artist.
 
 ### Abstract

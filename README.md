@@ -5,7 +5,7 @@
 Jukka Hautamäki, _New Parliament_ (2019). Image courtesy of the artist.
 
 ### Abstract
-As a summary of the forthcoming paper, this presentation rounds up major ambiguities which influence AI science, manifest in the production of AI artists, and shape the representation of creative AI in popular culture. Addressing AI within the perspectives of new media art, mainstream contemporary art and cultural sector, the paper we outline in this summary expands the critical consideration provided by Mitchell, Marcus and Davis, Miller, Żylińska, and others.
+As a summary of the [forthcoming paper](https://dejangrba.github.io/brittle-opacity/), this presentation rounds up major ambiguities which influence AI science, manifest in the production of AI artists, and shape the representation of creative AI in popular culture. Addressing AI within the perspectives of new media art, mainstream contemporary art and cultural sector, the paper we outline in this summary expands the critical consideration provided by Mitchell, Marcus and Davis, Miller, Żylińska, and others.
 
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 

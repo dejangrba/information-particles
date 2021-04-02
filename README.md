@@ -11,4 +11,3 @@ __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Lea
 
 ### References
 A complete list of references cited in the paper is available at [https://dejangrba.github.io/brittle-opacity/](https://dejangrba.github.io/brittle-opacity/).
-0

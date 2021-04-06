@@ -9,5 +9,11 @@ As a summary of the [forthcoming paper](https://dejangrba.github.io/brittle-opac
 
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 
+### Publication
+Art Machines 2: International Symposium on Machine Learning and Art Proceedings. School of Creative Media, City University of Hong Kong, Hong Kong, 10-13 Jun 2021 (forthcoming).
+
+### Full Text
+Will be available upon publication.
+
 ### References
 A complete list of references cited in the paper is available at [https://dejangrba.github.io/brittle-opacity/](https://dejangrba.github.io/brittle-opacity/).

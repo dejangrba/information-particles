@@ -13,7 +13,7 @@ __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Lea
 Art Machines 2: International Symposium on Machine Learning and Art Proceedings. School of Creative Media, City University of Hong Kong, Hong Kong, 10-13 Jun 2021 (forthcoming).
 
 ### Full Text
-Will be available upon publication.
+[Full text is available here](https://www.cityu.edu.hk/sites/g/files/asqsls5796/files/2021-05/Information%20Particles%20Tracing%20the%20Ambiguities%20of%20the%20Creative%20AI.pdf).
 
 ### References
 A complete list of references cited in the paper is available at [https://dejangrba.github.io/brittle-opacity/](https://dejangrba.github.io/brittle-opacity/).

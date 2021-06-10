@@ -10,7 +10,7 @@ As a summary of the [forthcoming paper](https://dejangrba.github.io/brittle-opac
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 
 ### Publication
-Art Machines 2: International Symposium on Machine Learning and Art Proceedings. School of Creative Media, City University of Hong Kong, Hong Kong, 10-13 Jun 2021 (forthcoming).
+Art Machines 2: International Symposium on Machine Learning and Art Proceedings. School of Creative Media, City University of Hong Kong, Hong Kong, 10-14 Jun 2021: 154-156.
 
 ### Full Text
 [Full text is available here](https://www.cityu.edu.hk/sites/g/files/asqsls5796/files/2021-05/Information%20Particles%20Tracing%20the%20Ambiguities%20of%20the%20Creative%20AI.pdf).

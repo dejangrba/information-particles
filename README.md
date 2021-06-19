@@ -12,8 +12,8 @@ __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Lea
 ### Publication
 _Art Machines 2: International Symposium on Machine Learning and Art Proceedings_, 154-156. School of Creative Media, City University of Hong Kong, Hong Kong, 10-14 June 2021.
 
-### [Full Text](http://dejangrba.org/publications/en/books/2021-information-particles.pdf) | [Video presentation](https://mega.nz/file/u75xlQhK#sZAIKOdbg6M7lznjTsVWdIPPCYvN0X2YWsOvhTFE4Fs).
-
+### Downloads
+[Full Text](http://dejangrba.org/publications/en/books/2021-information-particles.pdf) | [Video presentation](https://mega.nz/file/u75xlQhK#sZAIKOdbg6M7lznjTsVWdIPPCYvN0X2YWsOvhTFE4Fs).
 
 ### References
 A complete list of references cited in the paper is available at [https://dejangrba.github.io/brittle-opacity/](https://dejangrba.github.io/brittle-opacity/).

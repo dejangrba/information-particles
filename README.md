@@ -14,5 +14,6 @@ _Art Machines 2: International Symposium on Machine Learning and Art Proceedings
 
 ### [Full Text](http://dejangrba.org/publications/en/books/2021-information-particles.pdf) | [Video presentation](https://mega.nz/file/u75xlQhK#sZAIKOdbg6M7lznjTsVWdIPPCYvN0X2YWsOvhTFE4Fs).
 
+
 ### References
 A complete list of references cited in the paper is available at [https://dejangrba.github.io/brittle-opacity/](https://dejangrba.github.io/brittle-opacity/).
